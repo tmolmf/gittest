@@ -25,7 +25,7 @@ int main() {
 	sender_z=0;
 	receiver_x=11;
 	receiver_y=16;
-	receiver_z=0;
+	receiver_z=2;
 
  while(! inf.eof() ) {
   inf >> inStr;
